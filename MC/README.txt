@@ -1,0 +1,1 @@
+This is only one controller file and one helper file in a larger Laravel based custom CMS Application.

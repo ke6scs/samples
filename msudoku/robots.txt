@@ -1,0 +1,7 @@
+User-agent: *
+Disallow: /bt/
+Disallow: /img/
+Disallow: /images/
+Disallow: /cgi/
+Disallow: /eml/
+Disallow: /resources/
